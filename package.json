@@ -1,0 +1,19 @@
+{
+  "name": "desafioangularjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --watch src -e js ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "leonardrichard107@gmail.com"
+  },
+  "author": "Leonard Richard",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
